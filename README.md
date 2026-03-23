@@ -19,7 +19,7 @@
 - 🏆 Competitive programmer — AMPC3 finalist, 9th place at StarTech Africa
 - 📄 Interested in **document intelligence, LLM systems, autonomous agents, and Arabic NLP**
 - 🌍 Based in Rabat, Morocco
-- 📚 Currently: **obssesed**
+- 📚 Currently: **obsessed**
 
 ---
 
