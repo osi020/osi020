@@ -61,7 +61,6 @@
 ## 🔭 Current Focus
 
 - Autonomous AI Agents
-- Enterprise RAG systems
 - AI deployment and MLOps
 - Scalable cloud-native AI applications
 - Green AI / AI and climate change
