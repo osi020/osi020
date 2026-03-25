@@ -14,16 +14,15 @@
 
 ## 🚀 About Me
 
-- 🤖 AI Engineer passionate about **Agentic AI, RAG, MLOps, Cloud, and scalable AI systems**
-- 🎓 PhD Researcher in AI & Climate Change at INPT Morocco
-- 🏆 Competitive programmer — AMPC3 finalist, 9th place at StarTech Africa
-- 📄 Interested in **document intelligence, LLM systems, autonomous agents, and Arabic NLP**
-- 🌍 Based in Rabat, Morocco
-- 📚 Currently: **obsessed**
+-  AI Engineer passionate about **Agentic AI, RAG, MLOps, Cloud, and scalable AI systems**
+-  PhD Researcher in AI & Climate Change at INPT Morocco
+-  Competitive programmer — AMPC3 finalist, 9th place at StarTech Africa
+-  Based in Rabat, Morocco
+-  Currently: **obsessed**
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -68,7 +67,7 @@
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osi020&show_icons=true&theme=transparent" />
