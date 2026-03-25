@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 -  AI Engineer passionate about **Agentic AI, RAG, MLOps, Cloud, and scalable AI systems**
 -  PhD Researcher in AI & Climate Change at INPT Morocco
