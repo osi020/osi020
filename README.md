@@ -16,7 +16,6 @@
 
 -  AI Engineer passionate about **Agentic AI, RAG, MLOps, Cloud, and scalable AI systems**
 -  PhD Researcher in AI & Climate Change at INPT Morocco
--  Competitive programmer — AMPC3 finalist, 9th place at StarTech Africa
 -  Based in Rabat, Morocco
 -  Currently: **obsessed**
 
