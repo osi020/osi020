@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oussama Beddad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+;Agentic+AI+%7C+RAG+%7C+MLOps+%7C+Cloud;Building+intelligent+systems+from+research+to+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+;Agentic+AI+%7C+RAG+%7C+MLOps+%7C+Cloud;Building+intelligent+systems+from+research+to+production" alt="Typing SVG" />
 </p>
 
 <p align="center">
